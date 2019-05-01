@@ -1,7 +1,7 @@
 # hdi_v_ecology_plotly_blog
 Source code for Human Development &amp; National Eco-Footprints blog (medium.com)
 
-Blog Link:
+Blog Link: https://towardsdatascience.com/human-development-national-eco-footprints-a-visual-orientation-9adf86618d4f
 
 Do we share a standard global definition of human progress? 
 How should education and health be weighed against economic wealth in assessing a nation's development? 
